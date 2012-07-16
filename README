@@ -1,24 +1,18 @@
 Applicake Cocoa Conventions
 
+The basic layout of a CAKE ;) source code file:
+
 .h
-Header comment
-Imports
-Forward declarations (@protocol, @class)
-#defines
 Interface
-Protocols
 Class methods
 Properties
 Constructors
 Instance methods
 
 .m
-Header comment
-Imports
-#defines
-Interface extension (private interface)
+Interface extension
 Implementation
-Accessors
+Property accessors
 Constructors
 Interface implementations
 Protocol implementations
