@@ -1,0 +1,24 @@
+Applicake Cocoa Conventions
+
+.h
+Header comment
+Imports
+Forward declarations (@protocol, @class)
+#defines
+Interface
+Protocols
+Class methods
+Properties
+Constructors
+Instance methods
+
+.m
+Header comment
+Imports
+#defines
+Interface extension (private interface)
+Implementation
+Accessors
+Constructors
+Interface implementations
+Protocol implementations
